@@ -36,3 +36,107 @@ public class Currency {
     private String crossRateUSD;
     private String crossRateOther;
 }
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="isokur.xsl"?>
+<Tarih_Date Tarih="25.11.2022" Date="11/25/2022"  Bulten_No="2022/225" >
+    <Currency CrossOrder="0" Kod="USD" CurrencyCode="USD">
+        <Unit>1</Unit>
+        <Isim>ABD DOLARI</Isim>
+        <CurrencyName>US DOLLAR</CurrencyName>
+        <ForexBuying>18.6071</ForexBuying>
+        <ForexSelling>18.6406</ForexSelling>
+        <BanknoteBuying>18.5941</BanknoteBuying>
+        <BanknoteSelling>18.6686</BanknoteSelling>
+        <CrossRateUSD/>
+        <CrossRateOther/>
+    </Currency>
+    <Currency CrossOrder="1" Kod="AUD" CurrencyCode="AUD">
+        <Unit>1</Unit>
+        <Isim>AVUSTRALYA DOLARI</Isim>
+        <CurrencyName>AUSTRALIAN DOLLAR</CurrencyName>
+        <ForexBuying>12.5292</ForexBuying>
+        <ForexSelling>12.6109</ForexSelling>
+        <BanknoteBuying>12.4715</BanknoteBuying>
+        <BanknoteSelling>12.6865</BanknoteSelling>
+        <CrossRateUSD>1.4816</CrossRateUSD>
+        <CrossRateOther/>
+    </Currency>
+    <Currency CrossOrder="2" Kod="DKK" CurrencyCode="DKK">
+        <Unit>1</Unit>
+        <Isim>DANİMARKA KRONU</Isim>
+        <CurrencyName>DANISH KRONE</CurrencyName>
+        <ForexBuying>2.6003</ForexBuying>
+        <ForexSelling>2.6130</ForexSelling>
+        <BanknoteBuying>2.5984</BanknoteBuying>
+        <BanknoteSelling>2.6190</BanknoteSelling>
+        <CrossRateUSD>7.1448</CrossRateUSD>
+        <CrossRateOther/>
+    </Currency>
+    <Currency CrossOrder="9" Kod="EUR" CurrencyCode="EUR">
+        <Unit>1</Unit>
+        <Isim>EURO</Isim>
+        <CurrencyName>EURO</CurrencyName>
+        <ForexBuying>19.3670</ForexBuying>
+        <ForexSelling>19.4019</ForexSelling>
+        <BanknoteBuying>19.3535</BanknoteBuying>
+        <BanknoteSelling>19.4310</BanknoteSelling>
+        <CrossRateUSD/>
+        <CrossRateOther>1.0408</CrossRateOther>
+    </Currency>
+    <Currency CrossOrder="10" Kod="GBP" CurrencyCode="GBP">
+        <Unit>1</Unit>
+        <Isim>İNGİLİZ STERLİNİ</Isim>
+        <CurrencyName>POUND STERLING</CurrencyName>
+        <ForexBuying>22.4738</ForexBuying>
+        <ForexSelling>22.5909</ForexSelling>
+        <BanknoteBuying>22.4580</BanknoteBuying>
+        <BanknoteSelling>22.6248</BanknoteSelling>
+        <CrossRateUSD/>
+        <CrossRateOther>1.2099</CrossRateOther>
+    </Currency>
+    <Currency CrossOrder="3" Kod="CHF" CurrencyCode="CHF">
+        <Unit>1</Unit>
+        <Isim>İSVİÇRE FRANGI</Isim>
+        <CurrencyName>SWISS FRANK</CurrencyName>
+        <ForexBuying>19.6480</ForexBuying>
+        <ForexSelling>19.7741</ForexSelling>
+        <BanknoteBuying>19.6185</BanknoteBuying>
+        <BanknoteSelling>19.8038</BanknoteSelling>
+        <CrossRateUSD>0.9448</CrossRateUSD>
+        <CrossRateOther/>
+    </Currency>
+    <Currency CrossOrder="4" Kod="SEK" CurrencyCode="SEK">
+        <Unit>1</Unit>
+        <Isim>İSVEÇ KRONU</Isim>
+        <CurrencyName>SWEDISH KRONA</CurrencyName>
+        <ForexBuying>1.7788</ForexBuying>
+        <ForexSelling>1.7972</ForexSelling>
+        <BanknoteBuying>1.7776</BanknoteBuying>
+        <BanknoteSelling>1.8014</BanknoteSelling>
+        <CrossRateUSD>10.42</CrossRateUSD>
+        <CrossRateOther/>
+    </Currency>
+    <Currency CrossOrder="6" Kod="CAD" CurrencyCode="CAD">
+        <Unit>1</Unit>
+        <Isim>KANADA DOLARI</Isim>
+        <CurrencyName>CANADIAN DOLLAR</CurrencyName>
+        <ForexBuying>13.9211</ForexBuying>
+        <ForexSelling>13.9839</ForexSelling>
+        <BanknoteBuying>13.8696</BanknoteBuying>
+        <BanknoteSelling>14.0371</BanknoteSelling>
+        <CrossRateUSD>1.3348</CrossRateUSD>
+        <CrossRateOther/>
+    </Currency>
+    <Currency CrossOrder="11" Kod="KWD" CurrencyCode="KWD">
+        <Unit>1</Unit>
+        <Isim>KUVEYT DİNARI</Isim>
+        <CurrencyName>KUWAITI DINAR</CurrencyName>
+        <ForexBuying>60.1726</ForexBuying>
+        <ForexSelling>60.9600</ForexSelling>
+        <BanknoteBuying>59.2700</BanknoteBuying>
+        <BanknoteSelling>61.8744</BanknoteSelling>
+        <CrossRateUSD/>
+        <CrossRateOther>3.2521</CrossRateOther>
+    </Currency>
+</Tarih_Date>
