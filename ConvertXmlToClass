@@ -37,6 +37,7 @@ public class Currency {
     private String crossRateOther;
 }
 
+XML Data: 
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="isokur.xsl"?>
 <Tarih_Date Tarih="25.11.2022" Date="11/25/2022"  Bulten_No="2022/225" >
